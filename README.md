@@ -67,3 +67,5 @@ TDA와 디미터의 법칙은 정말로 같을까?
 
 "무엇"의 집합을 인터페이스로 봐도 무방할까?
 
+
+참고내용: https://github.com/Java-Entrance/OOP-Study
