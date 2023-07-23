@@ -15,7 +15,7 @@
 ## 💬 요약 및 이야깃거리
 ### 1장 : 협력하는 객체들의 공동체
 [요약](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/1.-%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EC%9E%84-%EC%9A%94%EC%95%BD "1장 요약")
-이야깃거리
+[이야깃거리](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/1.-%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EC%9E%84-%EC%9D%B4%EC%95%BC%EA%B9%83%EA%B1%B0%EB%A6%AC "1장 이야깃거리")
 
 
 
