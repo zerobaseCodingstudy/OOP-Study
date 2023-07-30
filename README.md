@@ -13,15 +13,14 @@
 이야깃거리 생각해와서 동료와 함께 토론하는 시간을 가진다!
 
 ## 💬 요약 및 이야깃거리
-### 1장 : 협력하는 객체들의 공동체
-[요약](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/1%EC%9E%A5-%EC%9A%94%EC%95%BD "1장 요약")
-[이야깃거리](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/1%EC%9E%A5-%EC%9D%B4%EC%95%BC%EA%B9%83%EA%B1%B0%EB%A6%AC "1장 이야깃거리")
-
+### 1장 : 협력하는 객체들의 공동체(7.30)
+질문거리
+1. (객체지향설계를 할 때)클래스가 없으면 어디에다가 넣어서 생각할 수 있을까요?
+2. 객체가 '자율성'을 가진다는 진짜 의미는 무엇일까요?
 
 
 ### 2장 : 이상한 나라의 객체
-[요약](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/2%EC%9E%A5-%EC%9A%94%EC%95%BD "2장 요약")
-[이야깃거리](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/2%EC%9E%A5-%EC%9D%B4%EC%95%BC%EA%B9%83%EA%B1%B0%EB%A6%AC "2장 요약")
+질문거리
 
 
 ### 3장 : 협력하는 객체들의 공동체
