@@ -33,8 +33,7 @@
 6. 내 코드는 캡슐화가 잘 지켜지고 있는 것일까? 
 
 ### 3장 : 협력하는 객체들의 공동체
-[요약](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/3%EC%9E%A5-%EC%9A%94%EC%95%BD "3장 요약")
-[이야깃거리](https://github.com/zerobaseCodingstudy/OOP-Study/wiki/3%EC%9E%A5-%EC%9D%B4%EC%95%BC%EA%B9%83%EA%B1%B0%EB%A6%AC "3장 요약")
+질문거리
 
 
 
